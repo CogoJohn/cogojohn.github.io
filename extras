@@ -1,0 +1,229 @@
+
+    <!-- Start Video promo Section 
+    <section class="video-promo section">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-8">
+              <div class="video-promo-content text-center">
+                <h2 class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms">Watch Our Intro video</h2>
+                <p class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms">Aliquam vestibulum cursus felis. In iaculis iaculis sapien ac condimentum. Vestibulum congue posuere lacus, id tincidunt nisi porta sit amet. Suspendisse et sapien varius, pellentesque dui non, semper orci.</p>
+                <a href="https://www.youtube.com/watch?v=IXoMDwh4Cq8" class="video-popup wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="0.3s"><i class="lnr lnr-film-play"></i></a>
+              </div>
+          </div>
+        </div>
+      </div>
+    </section>-->
+    <!-- End Video Promo Section -->
+
+    <!-- Start Pricing Table Section 
+    <div id="pricing" class="section pricing-section">
+      <div class="container">
+        <div class="section-header">          
+          <h2 class="section-title">Pricing Table</h2>
+          <hr class="lines">
+          <p class="section-subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, dignissimos! <br> Lorem ipsum dolor sit amet, consectetur.</p>
+        </div>
+
+        <div class="row pricing-tables">
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="pricing-table">
+              <div class="pricing-details">
+                <h2>Free</h2>
+                <span>$00</span>
+                <ul>
+                  <li>Consectetur adipiscing</li>
+                  <li>Nunc luctus nulla et tellus</li>
+                  <li>Suspendisse quis metus</li>
+                  <li>Vestibul varius fermentum erat</li>
+                </ul>
+              </div>
+              <div class="plan-button">
+                <a href="#" class="btn btn-common">Get Plan</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="pricing-table">
+              <div class="pricing-details">
+                <h2>Popular</h2>
+                <span>$3.99</span>
+                <ul>
+                  <li>Consectetur adipiscing</li>
+                  <li>Nunc luctus nulla et tellus</li>
+                  <li>Suspendisse quis metus</li>
+                  <li>Vestibul varius fermentum erat</li>
+                </ul>
+              </div>
+              <div class="plan-button">
+                <a href="#" class="btn btn-common">Buy Now</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="pricing-table">
+              <div class="pricing-details">
+                <h2>Premium</h2>
+                <span>$9.50</span>
+                <ul>
+                  <li>Consectetur adipiscing</li>
+                  <li>Nunc luctus nulla et tellus</li>
+                  <li>Suspendisse quis metus</li>
+                  <li>Vestibul varius fermentum erat</li>
+                </ul>
+              </div>
+              <div class="plan-button">
+                <a href="#" class="btn btn-common">Buy Now</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>-->
+    <!-- End Pricing Table Section -->
+
+    <!-- Counter Section Start 
+    <div class="counters section" data-stellar-background-ratio="0.5">
+      <div class="container">
+        <div class="row"> 
+          <div class="col-sm-6 col-md-3 col-lg-3">
+            <div class="facts-item">   
+              <div class="icon">
+                <i class="lnr lnr-clock"></i>
+              </div>             
+              <div class="fact-count">
+                <h3><span class="counter">1589</span></h3>
+                <h4>Working Hours</h4>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3">
+            <div class="facts-item">   
+              <div class="icon">
+                <i class="lnr lnr-briefcase"></i>
+              </div>            
+              <div class="fact-count">
+                <h3><span class="counter">699</span></h3>
+                <h4>Completed Projects</h4>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3">
+            <div class="facts-item"> 
+              <div class="icon">
+                <i class="lnr lnr-user"></i>
+              </div>              
+              <div class="fact-count">
+                <h3><span class="counter">203</span></h3>
+                <h4>No. of Clients</h4>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3">
+            <div class="facts-item"> 
+              <div class="icon">
+                <i class="lnr lnr-heart"></i>
+              </div>              
+              <div class="fact-count">
+                <h3><span class="counter">1689</span></h3>
+                <h4>Peoples Love</h4>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> -->
+    <!-- Counter Section End --> 
+
+    
+    
+    <!-- Blog Section-->
+    <section id="blog" class="section">
+      <!-- Container Starts -->
+      <div class="container">
+        <div class="section-header">          
+          <h2 class="section-title">Recent Blog</h2>
+          <hr class="lines">
+          <p class="section-subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, dignissimos! <br> Lorem ipsum dolor sit amet, consectetur.</p>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 blog-item">
+            <!-- Blog Item Starts -->
+            <div class="blog-item-wrapper">
+              <div class="blog-item-img">
+                <a href="single-post.html">
+                  <img src="img/blog/img1.jpg" alt="">
+                </a>                
+              </div>
+              <div class="blog-item-text"> 
+                <div class="meta-tags">
+                  <span class="date"><i class="lnr  lnr-clock"></i>2 Days Ago</span>
+                  <span class="comments"><a href="#"><i class="lnr lnr-bubble"></i> 24 Comments</a></span>
+                </div>
+                <h3>
+                  <a href="single-post.html">How often should you tweet?</a>
+                </h3>
+                <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua... 
+                </p>
+                <a href="single-post.html" class="btn-rm">Read More <i class="lnr lnr-arrow-right"></i></a>
+              </div>
+            </div>
+            <!-- Blog Item Wrapper Ends-->
+          </div>
+
+          <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 blog-item">
+            <!-- Blog Item Starts -->
+            <div class="blog-item-wrapper">
+              <div class="blog-item-img">
+                <a href="single-post.html">
+                  <img src="img/blog/img2.jpg" alt="">
+                </a>                
+              </div>
+              <div class="blog-item-text"> 
+                <div class="meta-tags">
+                  <span class="date"><i class="lnr  lnr-clock"></i>2 Days Ago</span>
+                  <span class="comments"><a href="#"><i class="lnr lnr-bubble"></i> 24 Comments</a></span>
+                </div>
+                <h3>
+                  <a href="single-post.html">Content is still king</a>
+                </h3>
+                <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua... 
+                </p>
+                <a href="single-post.html" class="btn-rm">Read More <i class="lnr lnr-arrow-right"></i></a>
+              </div>
+            </div>
+            <!-- Blog Item Wrapper Ends-->
+          </div>
+
+          <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 blog-item">
+            <!-- Blog Item Starts -->
+            <div class="blog-item-wrapper">
+              <div class="blog-item-img">
+                <a href="single-post.html">
+                  <img src="img/blog/img3.jpg" alt="">
+                </a>                
+              </div>
+              <div class="blog-item-text"> 
+                <div class="meta-tags">
+                  <span class="date"><i class="lnr  lnr-clock"></i>2 Days Ago</span>
+                  <span class="comments"><a href="#"><i class="lnr lnr-bubble"></i> 24 Comments</a></span>
+                </div> 
+                <h3>
+                  <a href="single-post.html">Social media at work</a>
+                </h3>
+                <p>
+                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua... 
+                </p>
+                <a href="single-post.html" class="btn-rm">Read More <i class="lnr lnr-arrow-right"></i></a>
+              </div>
+            </div>
+            <!-- Blog Item Wrapper Ends-->
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- blog Section End -->
